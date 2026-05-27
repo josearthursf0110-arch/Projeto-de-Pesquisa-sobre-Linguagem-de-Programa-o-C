@@ -1,6 +1,6 @@
 # Projeto de pesquisa sobre linguagem de programação : C
-Atividade colaborativa para explorar diferentes linguagens de programação utilizando ferramentas com práticas de metodologia ágil.
-# Projeto de Pesquisa – Linguagem de Programação
+//Atividade colaborativa para explorar diferentes linguagens de programação utilizando ferramentas com práticas de metodologia ágil.//
+
 
 ##  Sobre o Projeto
 
